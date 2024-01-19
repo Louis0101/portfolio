@@ -1,20 +1,41 @@
-﻿<!DOCTYPE html>
-
-<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html>
 <head>
-    <meta charset="utf-8" />
-    <link rel="icon" href="moon.png">
-    <link rel="stylesheet" href="style.css">
-    <title>Home</title>
+<meta charset="UTF-8">
+<title>Portfolio</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+
+<meta name="generator" content="Scirra Construct">
+
+	<link rel="manifest" href="appmanifest.json">
+	<link rel="apple-touch-icon" sizes="128x128" href="icons/Icône-128.png">
+	<link rel="apple-touch-icon" sizes="256x256" href="icons/Icône-256.png">
+	<link rel="apple-touch-icon" sizes="512x512" href="icons/Icône-512.png">
+	<link rel="icon" type="image/png" href="icons/Icône-512.png">
+
+<link rel="stylesheet" href="style.css">
+
+
 </head>
 <body>
-    <div class="header">
-        <h1>Portfolio</h1>
-        <h>Louis OGER</h>
-    </div>
-    <div class="stomach">
-        <img src="graphisme_affiche.jpg"/>
 
-    </div>
+<script>
+if (location.protocol.substr(0, 4) === "file")
+{
+	alert("Web exports won't work until you upload them. (When running on the file: protocol, browsers block many features from working for security reasons.)");
+}
+</script>
+
+	<noscript>
+		<div id="notSupportedWrap">
+			<h2 id="notSupportedTitle">This content requires JavaScript</h2>
+			<p class="notSupportedMessage">JavaScript appears to be disabled. Please enable it to view this content.</p>
+		</div>
+	</noscript>
+	<script src="scripts/supportcheck.js"></script>
+	<script src="scripts/offlineclient.js" type="module"></script>
+	<script src="scripts/main.js" type="module"></script>
+	<script src="scripts/register-sw.js" type="module"></script>
+
 </body>
 </html>
