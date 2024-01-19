@@ -5,7 +5,7 @@
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",
-	"background_color": "#ffffff",
+	"background_color": "#000000",
 	"icons": [
 		{
 			"src": "icons/Icône-16.png",
@@ -37,5 +37,6 @@
 			"sizes": "512x512",
 			"type": "image/png"
 		}
-	]
+	],
+	"theme_color": "#000000"
 }
