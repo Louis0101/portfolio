@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Users\\louis\\Bureau\\PROJET PERSOS\\PORTFOLIO\\P1\\www.louisogerportfolio.com\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-02-06T10:04:47.656Z",
               "IsPinned": true,
@@ -58,7 +58,7 @@
               "RelativeDocumentMoniker": "index.css",
               "ToolTip": "C:\\Users\\louis\\Bureau\\PROJET PERSOS\\PORTFOLIO\\P1\\www.louisogerportfolio.com\\index.css",
               "RelativeToolTip": "index.css",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAAEEAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-02-06T10:05:28.382Z",
               "IsPinned": true,
@@ -74,8 +74,7 @@
               "RelativeToolTip": "seconde_annee.html",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAABlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-04-06T14:23:11.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T14:23:11.981Z"
             },
             {
               "$type": "Document",
@@ -87,8 +86,7 @@
               "RelativeToolTip": "projets_persos.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-04-06T14:23:11.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T14:23:11.84Z"
             },
             {
               "$type": "Document",
@@ -100,8 +98,7 @@
               "RelativeToolTip": "premiere_annee.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-04-06T14:23:11.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T14:23:11.777Z"
             },
             {
               "$type": "Document",
@@ -113,8 +110,7 @@
               "RelativeToolTip": "avant_lecole.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-04-06T14:23:10.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T14:23:10.346Z"
             }
           ]
         }
