@@ -8,7 +8,7 @@ body{
     background-attachment: fixed;
     background-image: linear-gradient(to bottom,#e66465, #9198e5);
     background-image: -moz-linear-gradient(to bottom,#e66465, #9198e5);
-    height: 10060px;
+    height: 5300px;
 }
 
 p1{
@@ -16,12 +16,6 @@ p1{
     margin-left: 0%;
     margin-right: 35%;
 }
-
-li {
-    display: inline;
-    float: right;
-}
-
 
 li a {
     display: block;
@@ -41,7 +35,7 @@ li a:hover {
     list-style-type: none;
     margin: 0;
     padding: 20px;
-    background: rgba(217, 139, 11, 0.8);
+    background-color: lightsalmon;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -52,12 +46,17 @@ li a:hover {
     font-size: 50px;
     text-align: center;
     width: 33%;
-    background-color : lightcoral;
+    background-color: darksalmon;
+    border-radius: 25px;
+}
+#headertext {
+    padding : 20px;
 }
 
 img {
+    margin: 20px;
     border-radius: 4px;
-    width: 500px;
+    width: 400px;
 }
 
 #troisimeannee, #deuxiemeannee, #premiereannee, #avant {
@@ -71,7 +70,18 @@ img {
     background-color: white;
     padding: 20px;
     width: 95%;
-    height: 550px;
+}
+
+#troisimeannee{
+    height:1450px;
+}
+
+#deuxiemeannee{
+    height:1865px;
+}
+
+#premiereannee, #avant {
+    height: px;
 }
 
 h1 {
@@ -79,7 +89,11 @@ h1 {
 }
 
 .yearbox{
+    margin-top:auto;
     background-color: grey;
+    border-radius:25px;
+    height: 120px;
+    margin-bottom:20px;
 }
 
 #yeartext {
@@ -89,3 +103,29 @@ h1 {
     margin-top : 20px;
 }
 
+#container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.projectbox{
+    background-color :aquamarine;
+    border-radius : 25px;
+    height: 400px;
+    width : 32%;
+    font-size: 30px;
+    color: black;
+    margin-top:20px;
+}
+
+.footer {
+    background-color: lightsalmon;
+    margin-top:40px;
+    height : auto;
+}
+
+.footerlogo {
+    text-align:center;
+}
