@@ -8,13 +8,7 @@ body{
     background-attachment: fixed;
     background-image: linear-gradient(to bottom,#e66465, #9198e5);
     background-image: -moz-linear-gradient(to bottom,#e66465, #9198e5);
-    height: 5300px;
-}
-
-p1{
-    font-size:100px;
-    margin-left: 0%;
-    margin-right: 35%;
+    height: 5000px;
 }
 
 li a {
@@ -77,11 +71,11 @@ img {
 }
 
 #deuxiemeannee{
-    height:1865px;
+    height:1450px;
 }
 
 #premiereannee, #avant {
-    height: px;
+    height: 600px;
 }
 
 h1 {
@@ -111,7 +105,7 @@ h1 {
 }
 
 .projectbox{
-    background-color :aquamarine;
+    background-color :lightgrey;
     border-radius : 25px;
     height: 400px;
     width : 32%;
@@ -120,27 +114,30 @@ h1 {
     margin-top:20px;
 }
 
+#miniature {
+    height: 324px;
+    width: 576px;
+    margin-bottom:0;
+}
+
+#projectlink{
+    margin-top:0;
+}
+
 .footer {
     background-color: lightsalmon;
     margin-top: 40px;
-    height: auto;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    display: flex;
+    height: 320px;
+    bottom:0;
 }
 
 .footerlogo {
     text-align: center;
-    width : 100%;
+    width: 100%;
+    margin-bottom:0;
 }
 
 #versionnumber {
-    text-align: left;
-    font-size:50px;
-    border-radius:20px;
-    width:33%;
+    font-size: 50px;
     margin-top:0;
-    margin-bottom:10px;
-    margin-left:10px;
 }

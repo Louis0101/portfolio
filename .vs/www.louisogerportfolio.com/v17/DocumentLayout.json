@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\louis\\Bureau\\PROJET PERSOS\\PORTFOLIO\\P1\\www.louisogerportfolio.com\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\louis\\Bureau\\PROJET PERSOS\\PORTFOLIO\\P1\\www.louisogerportfolio.com\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\louis\\Bureau\\PROJET PERSOS\\PORTFOLIO\\P1\\www.louisogerportfolio.com\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\louis\\Bureau\\PROJET PERSOS\\PORTFOLIO\\P1\\www.louisogerportfolio.com\\seconde_annee.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:seconde_annee.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\louis\\Bureau\\PROJET PERSOS\\PORTFOLIO\\P1\\www.louisogerportfolio.com\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\louis\\Bureau\\PROJET PERSOS\\PORTFOLIO\\P1\\www.louisogerportfolio.com\\projets_persos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projets_persos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\louis\\Bureau\\PROJET PERSOS\\PORTFOLIO\\P1\\www.louisogerportfolio.com\\premiere_annee.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:premiere_annee.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\louis\\Bureau\\PROJET PERSOS\\PORTFOLIO\\P1\\www.louisogerportfolio.com\\avant_lecole.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:avant_lecole.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\louis\\Bureau\\PROJET PERSOS\\PORTFOLIO\\P1\\www.louisogerportfolio.com\\moonlight.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:moonlight.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\louis\\Bureau\\PROJET PERSOS\\PORTFOLIO\\P1\\www.louisogerportfolio.com\\index.html",
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Users\\louis\\Bureau\\PROJET PERSOS\\PORTFOLIO\\P1\\www.louisogerportfolio.com\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AQIAAGkAAAAAAAAAAAAAAH8AAAAuAAAA",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAKYAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-02-06T10:04:47.656Z",
               "IsPinned": true,
@@ -52,13 +40,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "index.css",
               "DocumentMoniker": "C:\\Users\\louis\\Bureau\\PROJET PERSOS\\PORTFOLIO\\P1\\www.louisogerportfolio.com\\index.css",
               "RelativeDocumentMoniker": "index.css",
               "ToolTip": "C:\\Users\\louis\\Bureau\\PROJET PERSOS\\PORTFOLIO\\P1\\www.louisogerportfolio.com\\index.css",
               "RelativeToolTip": "index.css",
-              "ViewState": "AQIAAHgAAAAAAAAAAAAAAIsAAAATAAAA",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAAI4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-02-06T10:05:28.382Z",
               "IsPinned": true,
@@ -67,50 +55,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "seconde_annee.html",
-              "DocumentMoniker": "C:\\Users\\louis\\Bureau\\PROJET PERSOS\\PORTFOLIO\\P1\\www.louisogerportfolio.com\\seconde_annee.html",
-              "RelativeDocumentMoniker": "seconde_annee.html",
-              "ToolTip": "C:\\Users\\louis\\Bureau\\PROJET PERSOS\\PORTFOLIO\\P1\\www.louisogerportfolio.com\\seconde_annee.html",
-              "RelativeToolTip": "seconde_annee.html",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAABlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-04-06T14:23:11.981Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "projets_persos.html",
-              "DocumentMoniker": "C:\\Users\\louis\\Bureau\\PROJET PERSOS\\PORTFOLIO\\P1\\www.louisogerportfolio.com\\projets_persos.html",
-              "RelativeDocumentMoniker": "projets_persos.html",
-              "ToolTip": "C:\\Users\\louis\\Bureau\\PROJET PERSOS\\PORTFOLIO\\P1\\www.louisogerportfolio.com\\projets_persos.html",
-              "RelativeToolTip": "projets_persos.html",
+              "Title": "moonlight.html",
+              "DocumentMoniker": "C:\\Users\\louis\\Bureau\\PROJET PERSOS\\PORTFOLIO\\P1\\www.louisogerportfolio.com\\moonlight.html",
+              "RelativeDocumentMoniker": "moonlight.html",
+              "ToolTip": "C:\\Users\\louis\\Bureau\\PROJET PERSOS\\PORTFOLIO\\P1\\www.louisogerportfolio.com\\moonlight.html",
+              "RelativeToolTip": "moonlight.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-04-06T14:23:11.84Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "premiere_annee.html",
-              "DocumentMoniker": "C:\\Users\\louis\\Bureau\\PROJET PERSOS\\PORTFOLIO\\P1\\www.louisogerportfolio.com\\premiere_annee.html",
-              "RelativeDocumentMoniker": "premiere_annee.html",
-              "ToolTip": "C:\\Users\\louis\\Bureau\\PROJET PERSOS\\PORTFOLIO\\P1\\www.louisogerportfolio.com\\premiere_annee.html",
-              "RelativeToolTip": "premiere_annee.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-04-06T14:23:11.777Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "avant_lecole.html",
-              "DocumentMoniker": "C:\\Users\\louis\\Bureau\\PROJET PERSOS\\PORTFOLIO\\P1\\www.louisogerportfolio.com\\avant_lecole.html",
-              "RelativeDocumentMoniker": "avant_lecole.html",
-              "ToolTip": "C:\\Users\\louis\\Bureau\\PROJET PERSOS\\PORTFOLIO\\P1\\www.louisogerportfolio.com\\avant_lecole.html",
-              "RelativeToolTip": "avant_lecole.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-04-06T14:23:10.346Z"
+              "WhenOpened": "2024-04-11T14:16:37.676Z",
+              "EditorCaption": ""
             }
           ]
         }
