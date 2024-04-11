@@ -122,10 +122,25 @@ h1 {
 
 .footer {
     background-color: lightsalmon;
-    margin-top:40px;
-    height : auto;
+    margin-top: 40px;
+    height: auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    display: flex;
 }
 
 .footerlogo {
-    text-align:center;
+    text-align: center;
+    width : 100%;
+}
+
+#versionnumber {
+    text-align: left;
+    font-size:50px;
+    border-radius:20px;
+    width:33%;
+    margin-top:0;
+    margin-bottom:10px;
+    margin-left:10px;
 }
