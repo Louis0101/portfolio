@@ -14,7 +14,10 @@ body {
     margin: 0;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-image:url("bg.jpg");
+    background-image: url("PICTURES/bg.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center center;
     height: 5000px;
 }
 
@@ -22,13 +25,13 @@ body {
     list-style-type: none;
     margin: 0;
     padding: 20px;
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.3);
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-between;
-    height:5%;
-    overflow:hidden;
+    height: 5%;
+    overflow: hidden;
 }
 
 #headertext {
@@ -41,16 +44,16 @@ body {
     margin-left:25%;
 }
 
-.cv, .logo {
+.logo {
     font-size: 50px;
     text-align: center;
     width: 32%;
     border-radius: 25px;
-    height:100%;
-    background-color:skyblue;
+    height: 100%;
+    background-color: rgba(220, 185, 247, 0.8);
 }
 
-.sketch, .itch {
+.cv, .mail, .sketch, .itch {
     width: 16.5%;
     border-radius: 25px;
     height: 100%;
@@ -63,7 +66,13 @@ body {
     transition: all .2s ease;
     vertical-align: middle;
 }
+.cv {
+    background-color: rgba(111, 143, 100, 0.8);
+}
 
+.mail {
+    background-color: rgba(255, 176, 45, 0.8);
+}
 .sketch{
     background-color:orangered;
 }
@@ -82,23 +91,36 @@ body {
     width: 400px;
 }
 
-.programmation, .gamedesign, .graphisme, .animation, .dessin, .modelisation, .workshop {
+.programmation, .gamedesign, .graphisme, .animation, .dessin, .modelisation {
     text-align: center;
     margin-top: 50px;
     margin-left: auto;
     margin-right: auto;
-    color: wheat;
+    color: black;
     border-radius: 25px;
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.23);
     padding: 20px;
     width: 95%;
 }
-.animation, .dessin{
-    height:30%;
+
+.programmation {
+    height: 20.5%;
 }
 
-.modelisation, .workshop{
-    height:20%;
+.gamedesign {
+    height:29%;
+}
+
+.graphisme {
+    height:12%;
+}
+
+.animation{
+    height:20.5%;
+}
+
+.dessin, .modelisation {
+    height:12%;
 }
 
 #contimage{
@@ -107,28 +129,11 @@ body {
     margin-top:10px;
 }
 
-#troisimeannee{
-    height:1450px;
-}
-
-#deuxiemeannee{
-    height:1450px;
-}
-
-#premiereannee, #avant {
-    height: 600px;
-}
-
-h1 {
-    font-size: 80px;
-}
-
-.yearbox{
-    margin-top:auto;
-    background-color: grey;
-    border-radius:25px;
+#programmationtitle, #gamedesigntitle, #graphismetitle, #animation, #dessintitle, #modelisationtitle {
+    margin-top: auto;
+    border-radius: 25px;
     height: 120px;
-    margin-bottom:20px;
+    margin-bottom: 20px;
 }
 
 #yeartext {
@@ -137,7 +142,6 @@ h1 {
     margin-left : 20px;
     margin-top : 20px;
     width:80%;
-    background-color:green;
 }
 
 #container {
@@ -161,7 +165,9 @@ h1 {
 #miniature {
     height: 324px;
     width: 576px;
+    margin-top:2%;
     margin-bottom:0;
+    aspect-ratio:16/9;
 }
 
 #projectlink{
@@ -169,20 +175,23 @@ h1 {
 }
 
 .footer {
-    background-color: lightsalmon;
+    background-color: rgba(255, 255, 255, 0.3);
     margin-top: 40px;
-    height: 5%;
-    bottom: 0;
+    padding-top:0.5%;
+    padding-bottom:2%;
+    padding-left:2%;
+    padding-right:2%;
 }
 
 .footerlogo {
     text-align: center;
     width: 100%;
-    margin-bottom: 0;
+}
+
+#returnbutton {
+    font-size:50px;
 }
 
 #versionnumber {
-    font-size: 25px;
-    margin-top: 0;
-    margin-bottom: 0;
+    font-size: 40px;
 }
