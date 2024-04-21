@@ -1,53 +1,82 @@
 <DOCTYPE HTML>
     <html>
     <head>
-        <title>Court métrage</title>
-        <link rel="stylesheet" href="projectstyle.css">
+        <title>Audiovisuel</title>
+        <link rel="stylesheet" href="audiovisuel.css">
         <meta charset="UTF-8">
     </head>
     <body>
         <div class="header">
             <div class="cv">
-                <p id="headertext">Cv à télécharger</p>
-            </div>
-            <div class="logo">
-                <a href="index.html">
-                    <img src="title.png" alt="Logo du site">
+                <a href="OGERLouis_Portfolio.pdf" download>
+                    <img id="weblink" src="PICTURES/pfp.png" alt="Photo">
                 </a>
             </div>
-            <div class="link">
-                <p id="headertext">Liens utiles</p>
+            <div class="mail">
+                <a href="mailto:louisoger359@gmail.com" mailto>
+                    <img id="weblink" src="PICTURES/mail.png" alt="Mail">
+                </a>
+            </div>
+            <div class="logo">
+                <a id="logocontainer" href="HTML/index.html">
+                    <img id="logoimage" src="PICTURES/title.png" alt="Logo du site">
+                </a>
+            </div>
+            <div class="sketch">
+                <a href="https://louisog.itch.io/">
+                    <img id="weblink" src="PICTURES/itchio.png" alt="Logo Itchio" />
+                </a>
+            </div>
+            <div class="itch">
+                <a href="https://sketchfab.com/louisoger359/models">
+                    <img id="weblink" src="PICTURES/sketchfab.png" alt="Logo SketchFab" />
+                </a>
             </div>
         </div>
+
+
         <div class="Content">
             <div class="ProjectTitle">
-                <h1 id="Title">Court métrage</h1>
+                <a id="home" href="index.html">
+                    <h1>Retour à l'accueil</h1>
+                </a>
+                <h1 id="Title">Audiovisuel</h1>
             </div>
-            <div class="body">
-                <div class="ProjectBody">
-                    <div id="ProjectImage">
-                        <img id="Photo" src="audiovisuel.png" alt="Photo du projet">
-                    </div>
-                    <div id="ProjectScript">
-                        <h1 id="ProjectText">
-                            Un des workshop de l’année était organisé entre toutes les filières de l’école. 
-                            Mon groupe pour ce projet contenait donc un élève d’architecture, de graphisme, 
-                            de transport et de design objet. Nous devions concevoir un court-métrage dans le 
-                            style d’un réalisateur connu. Nous avons choisi Wes Anderson, reconnaissable par 
-                            ses films avec des couleurs pastel et des plans symétriques. Nous avons donc réalisé 
-                            une sorte de pub macabre pour Polaroid, où un meurtrier bipolaire prend des clichés 
-                            de ses victimes.
-                        </h1>
-                    </div>
+            <div class="ProjectBody">
+                <div id="ProjectScript">
+                    <h1 id="ProjectText">
+                        Un des workshop de l’année était organisé entre toutes les
+                        filières de l’école. Mon groupe pour ce projet contenait donc 
+                        un élève d’architecture, de graphisme, de transport et de design 
+                        objet. Nous devions concevoir un court-métrage dans le style d’un 
+                        réalisateur connu. Nous avons choisi Wes Anderson, reconnaissable
+                        par ses films avec des couleurs pastel et des plans symétriques. 
+                        Nous avons donc réalisé une sorte de pub macabre pour Polaroid, 
+                        où un meurtrier bipolaire prend des clichés de ses victimes.
+                    </h1>
+                </div>
+                <div id="ProjectImage">
+                    <video controls>
+                        <source src="PICTURES/PROJECTPICTURES/AUDIOVISUEL/audiovisuel.mp4" type="video/mp4" />
+                        <p>
+                            Votre navigateur ne prend pas en charge les vidéos HTML5. Voici
+                            <a href="PICTURES/PROJECTPICTURES/AUDIOVISUEL/audiovisuel.mp4">un lien pour télécharger la vidéo</a>.
+                        </p>
+                    </video>
+
                 </div>
             </div>
         </div>
+
+
         <div class="footer">
             <div class="footerlogo">
-                <a href="index.html">
-                    <img src="title.png" alt="Logo du site">
+                <a id="returnbutton" href="audiovisuel.html">
+                    <p>Retour en haut de la page</p>
                 </a>
-                <p id="versionnumber">V0.2</p>
+                <p id="versionnumber">Email : louisoger359@gmail.com</p>
+                <p id="versionnumber">V0.3</p>
+                <p><a href="https://fr.freepik.com/photos-gratuite/nuages-duveteux-ciel-tir-vertical_12108697.htm#fromView=search&page=1&position=13&uuid=09f5750d-13d2-4451-8838-0a679bddd19d">Source de l'image de fond</a></p>
             </div>
         </div>
     </body>

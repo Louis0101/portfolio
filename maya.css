@@ -1,0 +1,179 @@
+﻿@font-face {
+    font-family: 'Sup';
+    src: local('supermilk.ttf') url('supermilk.ttf') format("truetype"),
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    font-family: 'Super Milk';
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url("PICTURES/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 1000px;
+}
+
+.header {
+    list-style-type: none;
+    margin: 0;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.3);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    height: 25%;
+    overflow: hidden;
+}
+
+#headertext {
+    padding: 20px;
+}
+
+#weblink {
+    width: 50%;
+    margin-top: 1vw;
+    margin-left: 25%;
+}
+
+.logo {
+    font-size: 50px;
+    text-align: center;
+    width: 32%;
+    border-radius: 25px;
+    height: 100%;
+    background-color: rgba(220, 185, 247, 0.8);
+}
+
+.cv, .mail, .sketch, .itch {
+    width: 16.5%;
+    border-radius: 25px;
+    height: 100%;
+    aspect-ratio: 1/4;
+    -webkit-transition: all .2s ease;
+    -moz-transition: all .2s ease;
+    -o-transition: all .2s ease;
+    transition: all .2s ease;
+    vertical-align: middle;
+}
+
+.cv {
+    background-color: rgba(111, 143, 100, 0.8);
+}
+
+.mail {
+    background-color: rgba(255, 176, 45, 0.8);
+}
+
+.sketch {
+    background-color: orangered;
+}
+
+.itch {
+    background-color: deepskyblue;
+}
+
+.link {
+    letter-spacing: -0.31em;
+}
+
+#logoimage {
+    margin-top: 5%;
+    border-radius: 4px;
+    width: 400px;
+}
+
+
+.Content {
+    background-color: rgba(255, 255, 255, 0.23);
+    border-radius: 25px;
+    margin: 25px;
+    padding: 20px;
+    height: 123%;
+}
+
+.home {
+    width: 33%;
+    font-size: 14px;
+}
+
+.ProjectTitle {
+    height: 100px;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-right: 40px;
+    border-radius: 25px;
+    text-align: center;
+}
+
+#Title {
+    margin: 10px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.ProjectBody {
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 89%;
+}
+
+#ProjectScript {
+    font-size: 50px;
+    text-align: center;
+    border-radius: 25px;
+}
+
+#ProjectScript {
+    margin-left: 10px;
+}
+
+video{
+    margin-left:18%;
+    width:65%;
+}
+
+#Photo {
+    width: 650px;
+    margin-top:30px;
+}
+
+#ProjectScript {
+    width: 100%;
+}
+
+#ProjectText {
+    font-size: 30px;
+    text-align: justify;
+    margin: 20px;
+}
+
+.footer {
+    background-color: rgba(255, 255, 255, 0.3);
+    margin-top: 40px;
+    padding-top: 0.5%;
+    padding-bottom: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    bottom: 0;
+}
+
+.footerlogo {
+    text-align: center;
+    width: 100%;
+}
+
+#returnbutton {
+    font-size: 50px;
+}
+
+#versionnumber {
+    font-size: 40px;
+}
