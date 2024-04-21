@@ -7,7 +7,6 @@
 
 html {
     height: 100%;
-    zoom: 70%;
 }
 
 body {
@@ -15,57 +14,75 @@ body {
     margin: 0;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-image: linear-gradient(to bottom,#e66465, #9198e5);
-    background-image: -moz-linear-gradient(to bottom,#e66465, #9198e5);
+    background-image:url("bg.jpg");
     height: 5000px;
-}
-
-p{
-    font-family : 'Super Milk';
-}
-li a {
-    display: block;
-    color: black;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-/* Change the link color to #111 (black) on hover */
-li a:hover {
-    background-color: white;
-    opacity:80%;
 }
 
 .header {
     list-style-type: none;
     margin: 0;
     padding: 20px;
-    background-color: lightsalmon;
+    background-color: white;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-between;
+    height:5%;
+    overflow:hidden;
 }
 
-.cv, .logo, .link {
+#headertext {
+    padding: 20px;
+}
+
+#weblink{
+    width:50%;
+    margin-top:1vw;
+    margin-left:25%;
+}
+
+.cv, .logo {
     font-size: 50px;
     text-align: center;
-    width: 33%;
-    background-color: darksalmon;
+    width: 32%;
     border-radius: 25px;
-}
-#headertext {
-    padding : 20px;
+    height:100%;
+    background-color:skyblue;
 }
 
-img {
-    margin: 20px;
+.sketch, .itch {
+    width: 16.5%;
+    border-radius: 25px;
+    height: 100%;
+    aspect-ratio: 1/4;
+
+    -webkit-transition: all .2s ease;
+    -moz-transition: all .2s ease;
+    
+    -o-transition: all .2s ease;
+    transition: all .2s ease;
+    vertical-align: middle;
+}
+
+.sketch{
+    background-color:orangered;
+}
+
+.itch{
+    background-color:deepskyblue;
+}
+
+.link {
+    letter-spacing: -0.31em;
+}
+
+#logoimage {
+    margin-top:5%;
     border-radius: 4px;
     width: 400px;
 }
 
-#troisimeannee, #deuxiemeannee, #premiereannee, #avant {
+.programmation, .gamedesign, .graphisme, .animation, .dessin, .modelisation, .workshop {
     text-align: center;
     margin-top: 50px;
     margin-left: auto;
@@ -75,6 +92,19 @@ img {
     background-color: white;
     padding: 20px;
     width: 95%;
+}
+.animation, .dessin{
+    height:30%;
+}
+
+.modelisation, .workshop{
+    height:20%;
+}
+
+#contimage{
+    margin-left:90%;
+    width:5%;
+    margin-top:10px;
 }
 
 #troisimeannee{
@@ -106,6 +136,8 @@ h1 {
     text-align : left;
     margin-left : 20px;
     margin-top : 20px;
+    width:80%;
+    background-color:green;
 }
 
 #container {
@@ -139,7 +171,7 @@ h1 {
 .footer {
     background-color: lightsalmon;
     margin-top: 40px;
-    height: 250px;
+    height: 5%;
     bottom: 0;
 }
 
