@@ -1,6 +1,6 @@
 ﻿@font-face {
     font-family: 'Sup';
-    src: local('supermilk.ttf') url('supermilk.ttf') format("truetype"),
+    src: local('supermilk.otf') url('supermilk.otf') format('opentype') url('supermilk.ttf') format('truetype') url('supermilk.woff') format('woff') url('supermilk.svg#svgSuperMilk') format('svg');
 }
 
 html {
