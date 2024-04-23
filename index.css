@@ -39,10 +39,11 @@ body {
     padding: 20px;
 }
 
-#weblink{
+#weblink, #logoimage{
     width:50%;
     margin-top:1vw;
     margin-left:25%;
+    opacity:0%;
 }
 
 .logo {
@@ -52,6 +53,10 @@ body {
     border-radius: 25px;
     height: 100%;
     background-color: rgba(220, 185, 247, 0.8);
+    background-image: url("PICTURES/title.png");
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: center;
 }
 
 .cv, .mail, .sketch, .itch {
@@ -59,37 +64,41 @@ body {
     border-radius: 25px;
     height: 100%;
     aspect-ratio: 1/4;
-
-    -webkit-transition: all .2s ease;
-    -moz-transition: all .2s ease;
-    
-    -o-transition: all .2s ease;
-    transition: all .2s ease;
-    vertical-align: middle;
 }
 .cv {
     background-color: rgba(111, 143, 100, 0.8);
+    background-image: url("PICTURES/pfp.png");
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: center;
 }
 
 .mail {
     background-color: rgba(255, 176, 45, 0.8);
-}
-.sketch{
-    background-color:orangered;
+    background-image: url("PICTURES/mail.png");
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: center;
 }
 
-.itch{
-    background-color:deepskyblue;
+.sketch {
+    background-color:orangered;
+    background-image: url("PICTURES/itchio.png");
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: center;
+}
+
+.itch {
+    background-color: deepskyblue;
+    background-image: url("PICTURES/sketchfab.png");
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: center;
 }
 
 .link {
     letter-spacing: -0.31em;
-}
-
-#logoimage {
-    margin-top:5%;
-    border-radius: 4px;
-    width: 400px;
 }
 
 .programmation, .gamedesign, .graphisme, .animation, .dessin, .modelisation {
