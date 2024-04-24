@@ -1,4 +1,4 @@
-﻿@font-face {
+﻿﻿@font-face {
     font-family: 'Sup';
     src: local('supermilk.otf') url('supermilk.otf') format('opentype') url('supermilk.ttf') format('truetype') url('supermilk.woff') format('woff') url('supermilk.svg#svgSuperMilk') format('svg');
 }
@@ -6,7 +6,7 @@
 
 html {
     height: 100%;
-    zoom:100%;
+    zoom: 100%;
 }
 
 body {
@@ -106,7 +106,7 @@ body {
     border-radius: 25px;
     margin: 25px;
     padding: 20px;
-    height: 140%;
+    height: auto;
 }
 
 .home {
@@ -133,7 +133,7 @@ body {
 .ProjectBody {
     margin-left: 20px;
     margin-right: 20px;
-    height: 89%;
+    height: auto;
 }
 
 #ProjectImage, #ProjectScript {
@@ -153,9 +153,9 @@ body {
 
 #PhotoA {
     width: 810px;
-    height:500px;
-    margin-top:30px;
-    margin-right:20px;
+    height: 500px;
+    margin-top: 30px;
+    margin-right: 20px;
 }
 
 #PhotoB {
