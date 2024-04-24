@@ -106,7 +106,7 @@ body {
     border-radius: 25px;
     margin: 25px;
     padding: 20px;
-    height: 118%;
+    height: auto;
 }
 .home {
     width:33%;
@@ -133,7 +133,7 @@ body {
 .ProjectBody {
     margin-left: 20px;
     margin-right: 20px;
-    height: 89%;
+    height: auto;
 }
 
 #ProjectImage, #ProjectScript {

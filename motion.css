@@ -18,7 +18,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
-    height: 1000px;
+    height: auto;
 }
 
 .header {
@@ -106,7 +106,7 @@ body {
     border-radius: 25px;
     margin: 25px;
     padding: 20px;
-    height: 123%;
+    height: auto;
 }
 
 .home {
